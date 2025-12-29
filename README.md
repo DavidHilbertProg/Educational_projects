@@ -1,8 +1,12 @@
-# Это репозиторий с учебными проектами.
+# Репозиторий с учебными проектами.
 Перейдите по ссылкам, чтобы найти интересующий Вас проект:
 
-
-
-Как скопировать учебные материалы:
-1. Нажмите на кноку <code>Code</code>. Она находится в правом верхнем углу.
-2. Выберите в выпадающем меню опцию <code>Download ZIP</code>.
+- [Введение в ML](https://github.com/DavidHilbertProg/Educational_projects/tree/main/ML_Introduction)
+- [Работа с данными](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Data-analysis)
+- [Линейная регрессия. Как найти зависимость между показателями](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Linear%20regression)
+- [Классификация. Как разделить данные на группы](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Classification)
+- [Классификация. Деревья решений](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Decision%20tree)
+- [Классификация. Случайный лес](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Random%20Forest)
+- [Прогнозирование. Временные ряды](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Forecasting)
+- [Feature Engineering](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Feature%20Engineering)
+- [Кластеризация](https://github.com/DavidHilbertProg/Educational_projects/tree/main/%D0%A1lustering)
