@@ -10,4 +10,4 @@
 - [Прогнозирование. Временные ряды](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Forecasting)
 - [Feature Engineering](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Feature%20Engineering)
 - [Кластеризация](https://github.com/DavidHilbertProg/Educational_projects/tree/main/%D0%A1lustering)
-- [Other projects](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Other%20projects)
+- [Сredit scoring]([https://github.com/DavidHilbertProg/Educational_projects/tree/main/Other%20projects](https://github.com/DavidHilbertProg/Educational_projects/tree/main/%D0%A1redit%20scoring))
