@@ -11,3 +11,4 @@
 - [Feature Engineering](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Feature%20Engineering)
 - [Кластеризация](https://github.com/DavidHilbertProg/Educational_projects/tree/main/%D0%A1lustering)
 - [Сredit scoring](https://github.com/DavidHilbertProg/Educational_projects/tree/main/%D0%A1redit%20scoring)
+- [Price of real estate](https://github.com/DavidHilbertProg/Educational_projects/tree/main/Price%20of%20real%20estate)
